@@ -3,4 +3,4 @@
 
 Estou criando esse repostório para aprender mais sobre o Git e GiHub!
 
-Essa linha eu adicionei diretamente no site do GitHub 🦫
+Essa linha eu adicionei **diretamente** no site do GitHub 🦫
